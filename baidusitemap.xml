@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>http://yoursite.com/2015/10/27/%E8%A1%A5%E4%B8%80%E5%8F%91%E6%B8%B8%E8%AE%B0%EF%BC%9A%E7%BE%8E%E8%A5%BF%E5%9B%9B%E6%97%A5%E6%B8%B8/</loc>
+    <lastmod>2015-10-28T02:24:16.000Z</lastmod>
+    <data>
+        <display>
+        <title>补一发游记：美西四日游</title>
+        <pubTime>2015-10-27T17:21:56.000Z</pubTime>
+        
+        <tag>travelling</tag>
+         
+         
+           
+             
+              <breadCrumb title="Life" url="http://yoursite.com/categories/Life/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2015/10/25/%E5%9F%BA%E4%BA%8EHexo%E7%9A%84github.io%E9%A1%B5%E9%9D%A2%E7%9A%84%E6%90%AD%E5%BB%BA%E6%AD%A5%E9%AA%A4/</loc>
+    <lastmod>2015-10-27T17:01:35.000Z</lastmod>
+    <data>
+        <display>
+        <title>基于Hexo的github.io页面的搭建步骤</title>
+        <pubTime>2015-10-26T03:27:00.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+         
+           
+             
+              <breadCrumb title="Programming" url="http://yoursite.com/categories/Programming/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+</urlset>
